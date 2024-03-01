@@ -1,1 +1,1 @@
-console.log('fajlli index.js versoni 1')
+console.log('fajlli index.js versoni 2')

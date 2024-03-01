@@ -1,0 +1,1 @@
+console.log('fajlli index.js versoni 1')
